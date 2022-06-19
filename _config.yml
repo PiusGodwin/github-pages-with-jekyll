@@ -1,13 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Master
+author: Dutifuk
+email: dutifulgodwin@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm a simple and industrous persona with a Godly fearing physiques. I spend most of my time coding while others of my 
+  time for business proposal and researching. i studied physics at federal university of petroleum resource and i graduated 
+  with second class upper. I based in lagos Nigeria... and am an aspiring web developer.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: Dutiful Sunday
+github_username:  PiusGodwin
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima

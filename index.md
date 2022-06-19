@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to Dutitech blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. dutitech as an aspiring tech company that stated as a virtual online platform for selling and delivery of gadget within and outside lagos state ...

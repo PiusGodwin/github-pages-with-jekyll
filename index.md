@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Dutitech"
+title: "Welcome to Dutitech Blog"
 ---
 
 I'm glad you are here. dutitech as an aspiring tech company that stated as a virtual online platform for selling and delivery of gadget within and outside lagos state ...
